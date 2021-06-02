@@ -78,7 +78,7 @@
     
 }
 .background{
-    background: white url(/bg4.jpg);
+    background: white url(./bg4.jpg);
     background-blend-mode:darken;
     background-size: cover;
     
